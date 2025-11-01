@@ -318,15 +318,13 @@ export default function Contenido() {
         <h2 style={styles.tituloSeccion}>Acerca de</h2>
         <div style={styles.textoContenedor}>
           <p style={styles.parrafo}>
-            Soy un desarrollador frontend apasionado por crear interfaces accesibles y pixel-perfect que combinen diseño
-            reflexivo con ingeniería robusta. Mi trabajo favorito se encuentra en la intersección entre diseño y
-            desarrollo, creando experiencias que no solo se ven bien sino que están meticulosamente construidas para
+            Soy un desarrollador frontend apasionado por crear interfaces accesibles. Mi trabajo favorito se encuentra en la intersección entre diseño y
+            desarrollo, creando experiencias que no solo se ven bien sino que están construidas para
             rendimiento y usabilidad.
           </p>
 
           <p style={styles.parrafo}>
-            Especializado en React y Next.js, creo aplicaciones web modernas con atención al detalle. Contribuyo a
-            mantener estándares altos de accesibilidad y seguridad en cada proyecto, asegurando que las experiencias
+            Especializado en React y Next.js, creo aplicaciones web modernas detalladas. Presto atención a la accesibilidad y usabilidad, asegurando que las experiencias
             sean inclusivas y protegidas para todos los usuarios.
           </p>
 
@@ -392,7 +390,7 @@ export default function Contenido() {
               num: "02",
               nombre: "ExplorAR",
               descripcion:
-                "Plataforma de reserva de actividades turísticas con interfaz intuitiva para explorar y reservar experiencias únicas con seguridad de datos garantizada.",
+                "Plataforma de reserva de actividades turísticas y gastronómicas con interfaz intuitiva para explorar y reservar experiencias únicas.",
               tags: ["React", "Next.js", "TypeScript"],
               link: "https://github.com/agustinblumenkranc/ExplorAR-Front",
             },
